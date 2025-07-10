@@ -1,2 +1,1 @@
-# bokepcut
-bokepcut
+# [bokepcut](https://bokepcut.pages.dev)
